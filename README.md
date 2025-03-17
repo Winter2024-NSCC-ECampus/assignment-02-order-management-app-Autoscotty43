@@ -35,7 +35,6 @@ This is a simple web application for managing orders and products. It is built u
     git clone <repository_url>
     cd OrderManagement
     ```
-    *(Replace `<repository_url>` with the actual URL of your project repository if applicable)*
 
 3.  **Configure Database Connection:**
     * Open the `src/main/resources/application.properties` file.
